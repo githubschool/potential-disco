@@ -1,2 +1,7 @@
 # Test File for Git Training
-## small town, few restaurent, perfect for rest :-) 
+## 
+1. small town, 
+2. few restaurent, 
+3. perfect for rest :-) 
+
+`auteur Thierry`
