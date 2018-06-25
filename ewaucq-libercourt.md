@@ -1,6 +1,8 @@
 # Libercourt La Ville de l'Amour
 
-`Auteur: Eric.Waucquier@clearstream.com`
+`Auteur: eric.waucquier@clearstream.com`
+
+Visit me at [GitHub](https://github.com/ewaucq)
 
 ### Liste des restaurants
 1. Baraque a frites de l'Ecole Jean Jaures
