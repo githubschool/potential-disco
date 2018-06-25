@@ -1,6 +1,6 @@
 # Libercourt La Ville de l'Amour
 
-`Auteur: Eric Waucquier`
+`Auteur: Eric.Waucquier@clearstream.com`
 
 ### Liste des restaurants
 1. Baraque a frites de l'Ecole Jean Jaures
