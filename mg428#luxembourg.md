@@ -6,4 +6,5 @@ Amarine
 
 ### summer attractions
 
-Sun
+Sun,
+Longer days
