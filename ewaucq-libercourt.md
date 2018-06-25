@@ -11,8 +11,14 @@
 
 ```Go
 package main
+
 import "fmt"
+
+func prln(s string) {
+  fmt.Println(s)
+}
+
 func main() {
-  fmt.Println("Libercourt")
+  prln("Libercourt")
 }
 ```
