@@ -25,4 +25,7 @@ Some attractions
 1. Foot
 2. Gym
 3. Basket
+4. Tennis
+4. Hockey
+
 
