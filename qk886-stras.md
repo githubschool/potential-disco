@@ -2,4 +2,4 @@
 
 ### Restaurant    
 *Kammerzell*
-[github](https://www.maison-kammerzell.com/presentation/)
+[Kammerzell](https://www.maison-kammerzell.com/presentation/)
