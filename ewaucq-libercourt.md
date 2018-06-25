@@ -30,7 +30,7 @@ func main() {
 ```Perl
 #!/usr/bin/perl -w
 
-print ( "Libercourt\n" ):
+print ("Libercourt\n");
 
-exit 0:
+exit 0;
 ```
