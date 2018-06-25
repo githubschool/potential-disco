@@ -16,5 +16,5 @@ The city is on the river Leie, 42 km (26 mi) southwest of Ghent and 25 km (16 mi
 1. Mont de Piété (Berg van Barmhartigheid or house of Mercy)
 1. Weigh house (Stadswaag) on the St.Michael-square
 1. Our Lady Hospital (Onze-Lieve-Vrouwehospitaal), founded in 1200–1204.
-1. Baggaertshof, often called Kortrijk's second Beguinage, contains a Botanical garden
+1. Baggaertshof, often called Kortrijk's second Beguinage, contains a Botanical Garden
 1. Groeningekouter contains the Groeningegate and the Groeninge Monument, to commemorate the 600th anniversary of the famous Battle of the Golden Spurs
