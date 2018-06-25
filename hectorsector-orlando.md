@@ -2,7 +2,8 @@
 
 ### Restaurants
 
-Some restaurants will go here...
+- Boma at Disney's Animal Kingdom Lodge
+- The Pharmacy
 
 ### Attractions
 
