@@ -6,6 +6,7 @@ Porta Nigra (roman port)
 Kaiserthermen (old Roman Kaiser Bath)
 Cathedral (Dom)
 Roman Imperial Throne Room (Konstantin-Basilika)
+Barbarathermen Roman bath for public
 Amphitheater
 Imperial Baths
 Forum Baths
