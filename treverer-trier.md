@@ -10,6 +10,6 @@ Barbarathermen Roman bath for public
 Amphitheater
 Imperial Baths
 Forum Baths
-Barbara Baths
+Barbara Baths for public
 Roman Bridge# Trier
 some more
