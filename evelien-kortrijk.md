@@ -4,7 +4,8 @@ The city is on the river Leie, 42 km (26 mi) southwest of Ghent and 25 km (16 mi
 
 ## Restaurants
 
-Plenty of places to eat
+[Sakura Japanese restaurant] (sakura-restaurant.be)
+
 
 ## Attractions (credits to wikipedia)
 
