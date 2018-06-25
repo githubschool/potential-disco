@@ -1,2 +1,2 @@
-#Test File for Git Training
+# Test File for Git Training
 ## small town, few restaurent, perfect for rest :-) 
