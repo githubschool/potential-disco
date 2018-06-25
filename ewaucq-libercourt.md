@@ -11,16 +11,28 @@ Visit me at [GitHub](https://github.com/ewaucq)
 
 ### Libercourt-as-Code
 
+##### Go
 ```Go
 package main
 
 import "fmt"
+
+const HomeTown string = "Libercourt"
 
 func prln(s string) {
   fmt.Println(s)
 }
 
 func main() {
-  prln("Libercourt")
+  prln(HomeTown)
 }
+```
+
+##### Perl
+```Perl
+#!/usr/bin/perl -w
+
+print ("Libercourt\n");
+
+exit 0;
 ```
