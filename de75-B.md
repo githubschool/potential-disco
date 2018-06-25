@@ -3,6 +3,8 @@
 
 Some restaurants
 * italian
+  * **italian1**
+  * italian2
 * greek
   * greek1
   * greek2
