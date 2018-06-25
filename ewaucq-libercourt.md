@@ -11,6 +11,7 @@ Visit me at [GitHub](https://github.com/ewaucq)
 
 ### Libercourt-as-Code
 
+##### Go
 ```Go
 package main
 
@@ -23,4 +24,13 @@ func prln(s string) {
 func main() {
   prln("Libercourt")
 }
+```
+
+##### Perl
+```Perl
+#!/usr/bin/perl -w
+
+print ( "Libercourt\n" ):
+
+exit 0:
 ```
