@@ -1,6 +1,6 @@
 # Metz 
 ### Restaurants 
 #### open on Monday
-Epicurien
+1. Epicurien
 ### Attractions
 :sparkles:
