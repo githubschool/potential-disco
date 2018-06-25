@@ -8,9 +8,9 @@ Plenty of places to eat
 
 ## Attractions
 
--Medieval City Hall (on the main square, the Grote Markt). The façade of the late-Gothic, early Renaissance city hall is adorned with the statues of the Counts of Flanders.
--The belfry is surmounted by a statue of Mercury, god of the merchants. The belfry is classified by UNESCO as a World Heritage Site.[14]
--Near-identical medieval Broel Towers with the bridge in between that spans the river Leie. (the Speyetower and the Ingelburgtower)
+1. Medieval City Hall (on the main square, the Grote Markt). The façade of the late-Gothic, early Renaissance city hall is adorned with the statues of the Counts of Flanders.
+1. The belfry is surmounted by a statue of Mercury, god of the merchants. The belfry is classified by UNESCO as a World Heritage Site.[14]
+1. Near-identical medieval Broel Towers with the bridge in between that spans the river Leie. (the Speyetower and the Ingelburgtower)
 -Artillerytower (Artillerietoren)
 -Mont de Piété (Berg van Barmhartigheid or house of Mercy)
 -Weigh house (Stadswaag) on the St.Michael-square
